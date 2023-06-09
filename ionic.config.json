@@ -1,0 +1,7 @@
+{
+  "name": "RedisApi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
